@@ -24,3 +24,4 @@ resource "random_pet" "that3" {
 variable "example_variable73" {
   default = null
 }
+
